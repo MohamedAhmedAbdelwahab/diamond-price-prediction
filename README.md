@@ -1,4 +1,5 @@
-# diamond-price-prediction Kaggle Competition to Predict Diamond Price
+# diamond-price-prediction 
+ # Kaggle Competition to Predict Diamond Price
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 
 Content price price in US dollars (\$326--\$18,823)
